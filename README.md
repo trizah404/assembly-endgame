@@ -2,8 +2,8 @@
 
 A logic-based game built with React and Vite.
 
-## Live Demo
-<img width="382" height="481" alt="image" src="https://github.com/user-attachments/assets/490f1a49-9d6e-49f9-8178-c135d93241e4" />
+## Interface Demo
+<img width="373" height="400" alt="image" src="https://github.com/user-attachments/assets/1ba28e95-d21d-4df4-822f-8182daa12909" />
 
 
 ## Technologies Used
