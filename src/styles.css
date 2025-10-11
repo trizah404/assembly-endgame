@@ -1,0 +1,51 @@
+body {
+  font-family: sans-serif;
+  background-color: #1e1e1e;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+/* 🌈 Colorful language buttons */
+.language {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  transition: transform 0.2s ease;
+}
+
+/* Assign vibrant colors based on position */
+.language:nth-child(1)  { background-color: #e74c3c; }  /* Red */
+.language:nth-child(2)  { background-color: #f39c12; }  /* Orange */
+.language:nth-child(3)  { background-color: #f1c40f; }  /* Yellow */
+.language:nth-child(4)  { background-color: #2ecc71; }  /* Green */
+.language:nth-child(5)  { background-color: #3498db; }  /* Blue */
+.language:nth-child(6)  { background-color: #9b59b6; }  /* Purple */
+.language:nth-child(7)  { background-color: #1abc9c; }  /* Teal */
+.language:nth-child(8)  { background-color: #e67e22; }  /* Carrot */
+.language:nth-child(9)  { background-color: #34495e; }  /* Navy */
+.language:nth-child(10) { background-color: #95a5a6; }  /* Silver */
+.language:nth-child(11) { background-color: orange; }  
+.language:hover {
+  transform: scale(1.05);
+}
+
+/* 🎯 Keyboard buttons stay consistent */
+.keyboard button {
+  margin: 0.3rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.keyboard button:disabled {
+  background-color: #555;
+  cursor: not-allowed;
+}
