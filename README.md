@@ -2,6 +2,9 @@
 
 A logic-based game built with React and Vite.
 
+## Live Demo
+https://assembly-endgame-silk.vercel.app/
+
 ## Interface Demo
 <img width="373" height="400" alt="image" src="https://github.com/user-attachments/assets/1ba28e95-d21d-4df4-822f-8182daa12909" />
 
