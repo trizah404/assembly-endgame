@@ -1,4 +1,24 @@
-# React + Vite
+# Assembly Endgame
+
+A logic-based game built with React and Vite.
+
+## Live Demo
+
+
+## Technologies Used
+- React
+- Vite
+- CSS
+- JavaScript
+
+## Features
+- Interactive gameplay
+- Responsive design
+- Component-based structure
+
+## Getting Started
+
+Clone the repository:# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
